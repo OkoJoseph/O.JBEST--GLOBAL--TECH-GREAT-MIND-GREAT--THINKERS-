@@ -26,4 +26,4 @@ This repository is dedicated to the developement of an app that aims to connect 
   -  Make your changes and commit them:'git commit-m"Add your commit message"'
   -  Push your changes to your forked repository:' git push oriogin feature/your-feature-name'or' git push origin bugfix/your-bug-fix-name
  
-  -  Creat a new branch for 
+    
